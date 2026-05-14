@@ -1,6 +1,6 @@
 # Proyecto Master Data Science
 
-Este repositorio reúne los proyectos individuales y grupales desarrollados durante el programa de Data Science. Aquí encontrarás trabajos analíticos aplicados a diferentes áreas, con un enfoque especial en:
+Este repositorio reúne los proyectos individuales desarrollados durante el curso de Data Science y Análisis de datos de la cámara de Comercio 2025. Aquí encontrarás trabajos analíticos aplicados a diferentes áreas, con un enfoque especial en:
 
 - Técnicas de visualización y análisis en Power BI
 - Cálculo e interpretación de métricas clave
@@ -9,7 +9,6 @@ Este repositorio reúne los proyectos individuales y grupales desarrollados dura
 ## Contenido
 
 - Proyectos individuales
-- Trabajos colaborativos
 - Ejemplos de dashboards y reportes
 - Documentación de técnicas y resultados
 
